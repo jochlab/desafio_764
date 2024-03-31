@@ -9,7 +9,7 @@ URL: https://github.com/xoshdev/desafio_764
 
 ## Descripción
 
-Desafío evaluado como parte del Bootcamp Ruby on Rails para Emprendimientos Digitales, a través de Inforcap, SENCE.
+Actividad del Bootcamp "Ruby on Rails para Emprendimientos tipo Startups" 2023 por Talento Digital/SENCE Chile.
 
 
 ## Objetivo general
